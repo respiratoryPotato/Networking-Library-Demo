@@ -20,7 +20,7 @@
 	let aux = gameEngine.aux;
 	
 	lib.DOMAIN_NAME = 'localhost';
-	lib.WAN_DOMAIN_NAME = lib.DOMAIN_NAME;//'67.183.59.250';
+	lib.WAN_DOMAIN_NAME = lib.DOMAIN_NAME;
 	lib.PORT_NUMBER = 8080;
 	
 	lib.defaultSwapTable.addSwap('entitySet','w');
