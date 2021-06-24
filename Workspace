@@ -1,0 +1,16 @@
+<NotepadPlus>
+    <Project name="Network Library Test">
+        <File name="run.bat" />
+        <File name="server.js" />
+        <Folder name="files">
+            <File name="files\index.html" />
+            <File name="files\main.css" />
+            <File name="files\main.js" />
+            <File name="files\implib.js" />
+            <File name="files\netlib.js" />
+            <File name="files\game.js" />
+            <File name="files\gameEngine.js" />
+        </Folder>
+        <File name="notes.txt" />
+    </Project>
+</NotepadPlus>

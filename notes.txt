@@ -1,0 +1,10 @@
+what this is:
+	this is the project just after I came back to it
+why the backup was made:
+	I came back to the project. Going to add more efficient data transfers
+
+remember to add:
+	connection can have specific callbacks for specific messages
+	callbacks can be added at runtime (don't remove options (yet))
+
+in production, allow for a version of the file that contains only the client code
